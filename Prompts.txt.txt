@@ -1,0 +1,8 @@
+Prompt 1:
+Generate professional homepage website copy for a modern cafe named Urban Brew Cafe.
+
+Prompt 2:
+Generate a professional Services section for Urban Brew Cafe.
+
+Prompt 3:
+Generate a strong Call-To-Action section for Urban Brew Cafe.
